@@ -1,0 +1,5 @@
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\bin\Release\WorkItemDomain.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\bin\Release\WorkItemDomain.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Release\ResolveAssemblyReference.cache
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Release\WorkItemDomain.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Release\WorkItemDomain.pdb

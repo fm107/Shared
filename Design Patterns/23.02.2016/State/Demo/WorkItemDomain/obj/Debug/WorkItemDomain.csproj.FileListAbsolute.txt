@@ -1,0 +1,20 @@
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Debug\ResolveAssemblyReference.cache
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\bin\Debug\WorkItemDomain.dll
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\bin\Debug\WorkItemDomain.pdb
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Debug\WorkItemDomain.dll
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Debug\WorkItemDomain.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\bin\Debug\WorkItemDomain.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\bin\Debug\WorkItemDomain.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Debug\ResolveAssemblyReference.cache
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Debug\WorkItemDomain.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Debug\WorkItemDomain.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\bin\Debug\WorkItemDomain.dll
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\bin\Debug\WorkItemDomain.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Debug\WorkItemDomain.dll
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\WorkItemDomain\obj\Debug\WorkItemDomain.pdb
+C:\Users\Alexander\Downloads\State\Demo\WorkItemDomain\bin\Debug\WorkItemDomain.dll
+C:\Users\Alexander\Downloads\State\Demo\WorkItemDomain\bin\Debug\WorkItemDomain.pdb
+C:\Users\Alexander\Downloads\State\Demo\WorkItemDomain\obj\Debug\WorkItemDomain.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Downloads\State\Demo\WorkItemDomain\obj\Debug\WorkItemDomain.dll
+C:\Users\Alexander\Downloads\State\Demo\WorkItemDomain\obj\Debug\WorkItemDomain.pdb

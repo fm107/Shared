@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="02533b92-3234-436b-8fc1-5ec452fbcff9" name="Stewart@BAMBOO 2010-12-15 23:15:37" runUser="Bamboo\Stewart" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85ae9a2e-8e5f-4e76-b3d4-cd6049cda4b6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Stewart_BAMBOO 2010-12-15 23_15_37" />
+    <Execution>
+      <TestTypeSpecific>
+        <UnitTestRunConfig testTypeId="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b">
+          <AssemblyResolution>
+            <TestDirectory useLoadContext="true" />
+          </AssemblyResolution>
+        </UnitTestRunConfig>
+        <WebTestRunConfiguration testTypeId="4e7599fa-5ecb-43e9-a887-cd63cf72d207">
+          <Browser name="Internet Explorer 7.0">
+            <Headers>
+              <Header name="User-Agent" value="Mozilla/4.0 (compatible; MSIE 7.0; Windows NT 5.1)" />
+              <Header name="Accept" value="*/*" />
+              <Header name="Accept-Language" value="{{$IEAcceptLanguage}}" />
+              <Header name="Accept-Encoding" value="GZIP" />
+            </Headers>
+          </Browser>
+        </WebTestRunConfiguration>
+      </TestTypeSpecific>
+      <AgentRule name="LocalMachineDefaultRole">
+        <DataCollectors>
+          <DataCollector uri="datacollector://microsoft/CodeCoverage/1.0" assemblyQualifiedName="Microsoft.VisualStudio.TestTools.CodeCoverage.CoveragePlugIn, Microsoft.VisualStudio.QualityTools.Plugins.CodeCoverage, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" friendlyName="Code Coverage">
+          </DataCollector>
+        </DataCollectors>
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-12-15T23:15:37.3421763-05:00" queuing="2010-12-15T23:15:37.3431763-05:00" start="2010-12-15T23:15:37.3431763-05:00" finish="2010-12-15T23:15:37.8702065-05:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="7" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="7" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="BAMBOO" outcome="Error" timestamp="2010-12-15T23:15:37.8572057-05:00">
+        <Text>Failed to queue test run 'Stewart@BAMBOO 2010-12-15 23:15:37': The system cannot find the file specified</Text>
+        <Exception>System.ComponentModel.Win32Exception (0x80004005): The system cannot find the file specified
+   at System.Diagnostics.Process.StartWithCreateProcess(ProcessStartInfo startInfo)
+   at System.Diagnostics.Process.Start()
+   at Microsoft.VisualStudio.TestTools.Agent.Win32ProcessLauncher.Launch(String exeFileName, String args, String workingDir, IEnumerable`1 environmentVariables, EventHandler processExitedHandler, Process&amp; process)
+   at Microsoft.VisualStudio.TestTools.Agent.OutOfProcessStrategy.LaunchProcessHelper(AgentProcessStartupInfo agentProcessStartupInfo)
+   at Microsoft.VisualStudio.TestTools.Agent.OutOfProcessStrategy.StartAgentProcess(AgentProcessStartupInfo agentProcessStartupInfo, Boolean restarting)
+   at Microsoft.VisualStudio.TestTools.Agent.OutOfProcessStrategy.StartAgentProcess(AgentProcessStartupInfo agentProcessStartupInfo)
+   at Microsoft.VisualStudio.TestTools.Agent.AgentProxy.StartAgentProcess(AgentProcessStartupInfo agentProcessStartupInfo)
+   at Microsoft.VisualStudio.TestTools.Agent.AgentProcessProxyManager.StartTestAgentProcesses(AgentProcessStartupInfo agentProcessStartupInfo)
+   at Microsoft.VisualStudio.TestTools.Agent.AgentProcessManager.StartAgentProcess(AgentProcessStartupInfo agentProcessStartupInfo, Boolean startDataCollectionAgent)
+   at Microsoft.VisualStudio.TestTools.Agent.AgentProcessManager.StartAgentProcess(AgentProcessStartupInfo agentProcessStartupInfo, TestRunConfiguration testRunConfiguration)
+   at Microsoft.VisualStudio.TestTools.TestManagement.LocalControllerProxy.StartProcess(TestRun run)
+   at Microsoft.VisualStudio.TestTools.TestManagement.LocalControllerProxy.PrepareProcess(TestRun run)
+   at Microsoft.VisualStudio.TestTools.TestManagement.LocalControllerProxy.InitializeController(TestRun run)
+   at Microsoft.VisualStudio.TestTools.TestManagement.ControllerProxy.QueueTestRunWorker(Object state)</Exception>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="XmlUnitOfWorkConstructorTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="e07e87e0-a05d-4bb3-6d82-d9dd04ffafb9">
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.XmlUnitOfWorkTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="XmlUnitOfWorkConstructorTest" />
+    </UnitTest>
+    <UnitTest name="StateTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="68279f75-e759-656d-c6b4-56970f499b41">
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.WorkItemTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StateTest" />
+    </UnitTest>
+    <UnitTest name="CreateTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="a4958714-ca88-0faf-380c-878683202784">
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.WorkItemTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateTest" />
+    </UnitTest>
+    <UnitTest name="EntitiesTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="cf11b2b8-6295-1059-94d2-fd1c29da7814">
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.XmlUnitOfWorkTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EntitiesTest" />
+    </UnitTest>
+    <UnitTest name="FindByIdTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="a1ce8c1f-1274-dfec-5ea2-d770f37be324">
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.WorkItemTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FindByIdTest" />
+    </UnitTest>
+    <UnitTest name="CommitTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="0730fe92-f377-2bf0-5266-46138ed8962d">
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.XmlUnitOfWorkTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CommitTest" />
+    </UnitTest>
+    <UnitTest name="ReadXmlTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="bc603ed5-57ba-5562-4250-6ff5e0724a6d">
+      <DeploymentItems>
+        <DeploymentItem filename="WorkItemAdvanced.exe" />
+      </DeploymentItems>
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.XmlUnitOfWorkTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ReadXmlTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a4958714-ca88-0faf-380c-878683202784" executionId="aa8a00d1-8c06-4fa3-87a2-df74d35c2017" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1ce8c1f-1274-dfec-5ea2-d770f37be324" executionId="9e70c9b4-9aee-4d3d-b2d9-aa82079725e3" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="68279f75-e759-656d-c6b4-56970f499b41" executionId="5d5eb301-9a9a-4a4d-ad9c-dfba1f84ff7f" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="0730fe92-f377-2bf0-5266-46138ed8962d" executionId="c4174a5f-27c7-4906-b8f7-8bc74b348ba2" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf11b2b8-6295-1059-94d2-fd1c29da7814" executionId="8f9d41a2-b390-4f32-8bf5-1656e0b4b503" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc603ed5-57ba-5562-4250-6ff5e0724a6d" executionId="0ee61793-9c27-4ad1-9010-fde447e29ca0" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e07e87e0-a05d-4bb3-6d82-d9dd04ffafb9" executionId="4f2dabfa-f10a-42d3-9e3c-3f79d0888dcf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="aa8a00d1-8c06-4fa3-87a2-df74d35c2017" testId="a4958714-ca88-0faf-380c-878683202784" testName="CreateTest" computerName="BAMBOO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="aa8a00d1-8c06-4fa3-87a2-df74d35c2017">
+    </UnitTestResult>
+    <UnitTestResult executionId="9e70c9b4-9aee-4d3d-b2d9-aa82079725e3" testId="a1ce8c1f-1274-dfec-5ea2-d770f37be324" testName="FindByIdTest" computerName="BAMBOO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9e70c9b4-9aee-4d3d-b2d9-aa82079725e3">
+    </UnitTestResult>
+    <UnitTestResult executionId="5d5eb301-9a9a-4a4d-ad9c-dfba1f84ff7f" testId="68279f75-e759-656d-c6b4-56970f499b41" testName="StateTest" computerName="BAMBOO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="5d5eb301-9a9a-4a4d-ad9c-dfba1f84ff7f">
+    </UnitTestResult>
+    <UnitTestResult executionId="c4174a5f-27c7-4906-b8f7-8bc74b348ba2" testId="0730fe92-f377-2bf0-5266-46138ed8962d" testName="CommitTest" computerName="BAMBOO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="c4174a5f-27c7-4906-b8f7-8bc74b348ba2">
+    </UnitTestResult>
+    <UnitTestResult executionId="8f9d41a2-b390-4f32-8bf5-1656e0b4b503" testId="cf11b2b8-6295-1059-94d2-fd1c29da7814" testName="EntitiesTest" computerName="BAMBOO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8f9d41a2-b390-4f32-8bf5-1656e0b4b503">
+    </UnitTestResult>
+    <UnitTestResult executionId="0ee61793-9c27-4ad1-9010-fde447e29ca0" testId="bc603ed5-57ba-5562-4250-6ff5e0724a6d" testName="ReadXmlTest" computerName="BAMBOO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0ee61793-9c27-4ad1-9010-fde447e29ca0">
+    </UnitTestResult>
+    <UnitTestResult executionId="4f2dabfa-f10a-42d3-9e3c-3f79d0888dcf" testId="e07e87e0-a05d-4bb3-6d82-d9dd04ffafb9" testName="XmlUnitOfWorkConstructorTest" computerName="BAMBOO" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="NotExecuted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="4f2dabfa-f10a-42d3-9e3c-3f79d0888dcf">
+    </UnitTestResult>
+  </Results>
+</TestRun>

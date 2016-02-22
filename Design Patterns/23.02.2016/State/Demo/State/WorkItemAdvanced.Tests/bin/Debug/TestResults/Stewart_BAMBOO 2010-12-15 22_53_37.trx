@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="e22ce394-1ab6-44bb-9093-f30c780e1fc7" name="Stewart@BAMBOO 2010-12-15 22:53:37" runUser="Bamboo\Stewart" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85ae9a2e-8e5f-4e76-b3d4-cd6049cda4b6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Stewart_BAMBOO 2010-12-15 22_53_37" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-12-15T22:53:37.2166694-05:00" queuing="2010-12-15T22:53:37.4596833-05:00" start="2010-12-15T22:53:37.6196925-05:00" finish="2010-12-15T22:53:38.1097205-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="4" executed="4" passed="2" error="0" failed="2" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="EntitiesTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="cf11b2b8-6295-1059-94d2-fd1c29da7814">
+      <Execution timeOut="1800000" id="2bfb2b65-769d-4b05-80e7-bfb83455081e" />
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.XmlUnitOfWorkTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="EntitiesTest" />
+    </UnitTest>
+    <UnitTest name="XmlUnitOfWorkConstructorTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="e07e87e0-a05d-4bb3-6d82-d9dd04ffafb9">
+      <Execution timeOut="1800000" id="b1188fc2-a081-483f-86ae-54e10ff55434" />
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.XmlUnitOfWorkTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="XmlUnitOfWorkConstructorTest" />
+    </UnitTest>
+    <UnitTest name="CommitTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="0730fe92-f377-2bf0-5266-46138ed8962d">
+      <Execution timeOut="1800000" id="eb49132a-2f7a-4271-b20d-d75a51da6240" />
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.XmlUnitOfWorkTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CommitTest" />
+    </UnitTest>
+    <UnitTest name="ReadXmlTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="bc603ed5-57ba-5562-4250-6ff5e0724a6d">
+      <Execution timeOut="1800000" id="b5ea7cc9-8ee8-408e-9034-a147749524fd" />
+      <DeploymentItems>
+        <DeploymentItem filename="WorkItemAdvanced.exe" />
+      </DeploymentItems>
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.XmlUnitOfWorkTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="ReadXmlTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0730fe92-f377-2bf0-5266-46138ed8962d" executionId="eb49132a-2f7a-4271-b20d-d75a51da6240" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="cf11b2b8-6295-1059-94d2-fd1c29da7814" executionId="2bfb2b65-769d-4b05-80e7-bfb83455081e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="bc603ed5-57ba-5562-4250-6ff5e0724a6d" executionId="b5ea7cc9-8ee8-408e-9034-a147749524fd" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="e07e87e0-a05d-4bb3-6d82-d9dd04ffafb9" executionId="b1188fc2-a081-483f-86ae-54e10ff55434" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="eb49132a-2f7a-4271-b20d-d75a51da6240" testId="0730fe92-f377-2bf0-5266-46138ed8962d" testName="CommitTest" computerName="BAMBOO" duration="00:00:00.0816299" startTime="2010-12-15T22:53:37.6606948-05:00" endTime="2010-12-15T22:53:37.8277044-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="eb49132a-2f7a-4271-b20d-d75a51da6240">
+    </UnitTestResult>
+    <UnitTestResult executionId="2bfb2b65-769d-4b05-80e7-bfb83455081e" testId="cf11b2b8-6295-1059-94d2-fd1c29da7814" testName="EntitiesTest" computerName="BAMBOO" duration="00:00:00.1842234" startTime="2010-12-15T22:53:37.8307045-05:00" endTime="2010-12-15T22:53:38.0157151-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="2bfb2b65-769d-4b05-80e7-bfb83455081e">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Fail failed. Assert.Equals should not be used for Assertions. Please use Assert.AreEqual &amp; overloads instead.</Message>
+          <StackTrace>   at WorkItemAdvanced.Tests.XmlUnitOfWorkTest.EntitiesTest() in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced.Tests\XmlUnitOfWorkTest.cs:line 77
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b5ea7cc9-8ee8-408e-9034-a147749524fd" testId="bc603ed5-57ba-5562-4250-6ff5e0724a6d" testName="ReadXmlTest" computerName="BAMBOO" duration="00:00:00.0276795" startTime="2010-12-15T22:53:38.0177152-05:00" endTime="2010-12-15T22:53:38.0457168-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b5ea7cc9-8ee8-408e-9034-a147749524fd">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.AreEqual failed. Expected:&lt;1&gt;. Actual:&lt;3&gt;. </Message>
+          <StackTrace>   at WorkItemAdvanced.Tests.XmlUnitOfWorkTest.ReadXmlTest() in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced.Tests\XmlUnitOfWorkTest.cs:line 60
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b1188fc2-a081-483f-86ae-54e10ff55434" testId="e07e87e0-a05d-4bb3-6d82-d9dd04ffafb9" testName="XmlUnitOfWorkConstructorTest" computerName="BAMBOO" duration="00:00:00.0017114" startTime="2010-12-15T22:53:38.0477169-05:00" endTime="2010-12-15T22:53:38.0507171-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b1188fc2-a081-483f-86ae-54e10ff55434">
+    </UnitTestResult>
+  </Results>
+</TestRun>

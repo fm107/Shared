@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="file:///C:/Users/Stewart/AppData/Local/Microsoft/VisualStudio/10.0/Extensions/Microsoft/Visualization and Modeling Feature Pack/1.0/Logging/ReverseEngineeringLog.xslt"?>
+<Log xmlns="http://schemas.microsoft.com/VisualStudio/2010/CodeGen.RE.Log">
+  <Message Timestamp="2011-01-23T16:12:25" Importance="High" Text="Reverse Engineering Started." />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Models::ServiceLocatorAdvanced' -  (Package)" />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="Medium" Text="Element reverse engineered into the UML model: 'Models::ServiceLocatorAdvanced::ILog' -  (Interface)" />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Models::ServiceLocatorAdvanced::ILog::Log' -  (Operation)" />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Models::ServiceLocatorAdvanced::ILog::Log::txt' -  (Parameter)" />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Models::ServiceLocatorAdvanced::ILog::LogFormat' -  (Operation)" />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Models::ServiceLocatorAdvanced::ILog::LogFormat::p' -  (Parameter)" />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Models::ServiceLocatorAdvanced::ILog::LogFormat::txt' -  (Parameter)" />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Models::System' -  (Package)" />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'Models::System::Object' -  (Class)   (partially reverse engineered - definition not updated) " />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="Diagnostic" Text="Element reverse engineered into the UML model: 'String' -  (PrimitiveType)" />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="High" Text="(1) type(s) fully reverse engineered." />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="High" Text="(1) type(s) partially reverse engineered.  These types were not included in the original selection so their full definitions are not reverse engineered.  Instead, this shallow operation has simply ensured these types exist in the UML model because they are needed in order to fully describe other elements." />
+  <Message Timestamp="2011-01-23T16:12:26" Importance="High" Text="The reverse engineering operation completed with (0) error(s), and (0) warning(s)." />
+</Log>

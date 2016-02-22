@@ -1,0 +1,44 @@
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\bin\Debug\Paint.exe
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\MainWindow.baml
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\MainWindow.g.cs
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\App.g.cs
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint_MarkupCompile.cache
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.g.resources
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.exe
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.pdb
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint_MarkupCompile.lref
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\Paint.exe
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\Paint.pdb
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\App.g.cs
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\Paint_MarkupCompile.cache
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\Paint_MarkupCompile.lref
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\MainWindow.baml
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\Paint.g.resources
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Steve\Documents\My Dropbox\PluralsightCurrent\016 - Memento Pattern\after\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\Paint.exe
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\Paint.pdb
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\App.g.cs
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\Paint_MarkupCompile.cache
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\Paint_MarkupCompile.lref
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\MainWindow.baml
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\Paint.g.resources
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+C:\Users\Alexander\Downloads\Memento\after\Paint\Paint\obj\x86\Debug\Paint.csproj.GenerateResource.Cache

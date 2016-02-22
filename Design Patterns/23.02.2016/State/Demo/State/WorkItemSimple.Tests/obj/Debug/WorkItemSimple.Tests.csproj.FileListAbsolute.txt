@@ -1,0 +1,24 @@
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\data.xml
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\WorkItemSimple.Tests.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\WorkItemSimple.Tests.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\State.exe
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\WorkItemDomain.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\WorkItemDomain.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\State.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\State_Accessor.exe
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\State_Accessor.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\obj\Debug\WorkItemSimple.Tests.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\obj\Debug\WorkItemSimple.Tests.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\data.xml
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\WorkItemSimple.Tests.dll
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\WorkItemSimple.Tests.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\State.exe
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\WorkItemDomain.dll
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\WorkItemDomain.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\State.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\State_Accessor.exe
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Debug\State_Accessor.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\obj\Debug\WorkItemSimple.Tests.dll
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\obj\Debug\WorkItemSimple.Tests.pdb

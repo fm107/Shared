@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="StatePatternSampleApp.StatePattern.ATM">
+    <Position X="2.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>StatePattern\ATM.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatePatternSampleApp.StatePattern.ATMState">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>StatePattern\ATMState.cs</FileName>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAAAAAACAAAAIgAAAAAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatePatternSampleApp.StatePattern.CardValidatedState">
+    <Position X="5.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>StatePattern\CardValidatedState.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatePatternSampleApp.StatePattern.CashWithdrawnState">
+    <Position X="8.75" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>StatePattern\CashWithdrawnState.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatePatternSampleApp.StatePattern.NoCardState">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>StatePattern\NoCardState.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="StatePatternSampleApp.StatePattern.NoCashState">
+    <Position X="7.25" Y="3.75" Width="1.25" />
+    <TypeIdentifier>
+      <FileName>StatePattern\NoCashState.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAgAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>

@@ -1,0 +1,12 @@
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Release\data.xml
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Release\WorkItemSimple.Tests.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Release\WorkItemSimple.Tests.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Release\State.exe
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Release\WorkItemDomain.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Release\WorkItemDomain.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Release\State.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Release\State_Accessor.exe
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\bin\Release\State_Accessor.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\obj\Release\ResolveAssemblyReference.cache
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\obj\Release\WorkItemSimple.Tests.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemSimple.Tests\obj\Release\WorkItemSimple.Tests.pdb

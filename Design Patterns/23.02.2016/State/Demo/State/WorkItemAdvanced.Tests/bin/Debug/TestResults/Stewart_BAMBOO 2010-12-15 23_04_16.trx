@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="9482273f-6beb-4671-8efc-5c9347616c0e" name="Stewart@BAMBOO 2010-12-15 23:04:16" runUser="Bamboo\Stewart" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85ae9a2e-8e5f-4e76-b3d4-cd6049cda4b6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Stewart_BAMBOO 2010-12-15 23_04_16" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-12-15T23:04:16.2972227-05:00" queuing="2010-12-15T23:04:16.5452369-05:00" start="2010-12-15T23:04:16.7232471-05:00" finish="2010-12-15T23:04:16.9632608-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CreateTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="a4958714-ca88-0faf-380c-878683202784">
+      <Execution timeOut="1800000" id="a6e7440c-b6a1-448d-bcdd-a75b747d6809" />
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.WorkItemTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a4958714-ca88-0faf-380c-878683202784" executionId="a6e7440c-b6a1-448d-bcdd-a75b747d6809" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="a6e7440c-b6a1-448d-bcdd-a75b747d6809" testId="a4958714-ca88-0faf-380c-878683202784" testName="CreateTest" computerName="BAMBOO" duration="00:00:00.0755381" startTime="2010-12-15T23:04:16.7592491-05:00" endTime="2010-12-15T23:04:16.8932568-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="a6e7440c-b6a1-448d-bcdd-a75b747d6809">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method WorkItemAdvanced.Tests.WorkItemTest.CreateTest threw exception: 
+System.NullReferenceException: Object reference not set to an instance of an object.</Message>
+          <StackTrace>    at WorkItemAdvanced.WorkItem.Create() in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced\WorkItem.cs:line 23
+   at WorkItemAdvanced.Tests.WorkItemTest.CreateTest() in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced.Tests\WorkItemTest.cs:line 24
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

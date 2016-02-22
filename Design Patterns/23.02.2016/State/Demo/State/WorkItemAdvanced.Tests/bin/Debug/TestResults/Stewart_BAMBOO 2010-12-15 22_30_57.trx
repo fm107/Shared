@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8065d304-e22a-4df0-ba4d-1260666f2d91" name="Stewart@BAMBOO 2010-12-15 22:30:57" runUser="Bamboo\Stewart" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85ae9a2e-8e5f-4e76-b3d4-cd6049cda4b6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Stewart_BAMBOO 2010-12-15 22_30_57" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-12-15T22:30:57.0338714-05:00" queuing="2010-12-15T22:30:57.4068927-05:00" start="2010-12-15T22:30:57.6609073-05:00" finish="2010-12-15T22:30:57.9689249-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="XmlUnitOfWorkConstructorTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="e07e87e0-a05d-4bb3-6d82-d9dd04ffafb9">
+      <Execution timeOut="1800000" id="664be734-827b-44c1-b80c-134a2c592c44" />
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.XmlUnitOfWorkTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="XmlUnitOfWorkConstructorTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="e07e87e0-a05d-4bb3-6d82-d9dd04ffafb9" executionId="664be734-827b-44c1-b80c-134a2c592c44" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="664be734-827b-44c1-b80c-134a2c592c44" testId="e07e87e0-a05d-4bb3-6d82-d9dd04ffafb9" testName="XmlUnitOfWorkConstructorTest" computerName="BAMBOO" duration="00:00:00.0727068" startTime="2010-12-15T22:30:57.7409118-05:00" endTime="2010-12-15T22:30:57.9019210-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="664be734-827b-44c1-b80c-134a2c592c44">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method WorkItemAdvanced.Tests.XmlUnitOfWorkTest.XmlUnitOfWorkConstructorTest threw exception: 
+System.IO.FileNotFoundException: Could not find file 'C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced.Tests\bin\Debug\TestResults\Stewart_BAMBOO 2010-12-15 22_30_57\Out\any sample file name.txt'.</Message>
+          <StackTrace>    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   at System.Xml.XmlReader.Create(String inputUri, XmlReaderSettings settings, XmlParserContext inputContext)
+   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri)
+   at WorkItemAdvanced.XmlUnitOfWork.ReadXml() in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced\XmlUnitOfWork.cs:line 57
+   at WorkItemAdvanced.XmlUnitOfWork..ctor(String fileName) in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced\XmlUnitOfWork.cs:line 18
+   at WorkItemAdvanced.Tests.XmlUnitOfWorkTest.XmlUnitOfWorkConstructorTest() in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced.Tests\XmlUnitOfWorkTest.cs:line 26
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

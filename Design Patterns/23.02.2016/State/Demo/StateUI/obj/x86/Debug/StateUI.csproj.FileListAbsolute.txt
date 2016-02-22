@@ -1,0 +1,13 @@
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\bin\Debug\StateUI.exe
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\bin\Debug\StateUI.pdb
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\MainWindow.baml
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\MainWindow.g.cs
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\App.g.cs
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\StateUI_MarkupCompile.cache
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\StateUI.g.resources
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\StateUI.Properties.Resources.resources
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\StateUI.exe
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\StateUI\obj\x86\Debug\StateUI.pdb

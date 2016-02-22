@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5008973f-6247-4706-8a86-9a93ba81db8a" name="Stewart@BAMBOO 2010-12-15 22:37:51" runUser="Bamboo\Stewart" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85ae9a2e-8e5f-4e76-b3d4-cd6049cda4b6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Stewart_BAMBOO 2010-12-15 22_37_51" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-12-15T22:37:51.9686043-05:00" queuing="2010-12-15T22:37:52.2196187-05:00" start="2010-12-15T22:37:52.3866282-05:00" finish="2010-12-15T22:37:52.6446430-05:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="CommitTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="0730fe92-f377-2bf0-5266-46138ed8962d">
+      <Execution timeOut="1800000" id="8112b0c0-0951-4d68-ad6a-55360684ab29" />
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.XmlUnitOfWorkTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CommitTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="0730fe92-f377-2bf0-5266-46138ed8962d" executionId="8112b0c0-0951-4d68-ad6a-55360684ab29" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8112b0c0-0951-4d68-ad6a-55360684ab29" testId="0730fe92-f377-2bf0-5266-46138ed8962d" testName="CommitTest" computerName="BAMBOO" duration="00:00:00.0622869" startTime="2010-12-15T22:37:52.4296307-05:00" endTime="2010-12-15T22:37:52.5766391-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8112b0c0-0951-4d68-ad6a-55360684ab29">
+      <Output>
+        <ErrorInfo>
+          <Message>Test method WorkItemAdvanced.Tests.XmlUnitOfWorkTest.CommitTest threw exception: 
+System.IO.IOException: The process cannot access the file 'C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced.Tests\bin\Debug\TestResults\Stewart_BAMBOO 2010-12-15 22_37_51\Out\any sample file name.txt' because it is being used by another process.</Message>
+          <StackTrace>    at System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   at System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath)
+   at System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share, Int32 bufferSize)
+   at System.Xml.XmlDownloadManager.GetStream(Uri uri, ICredentials credentials, IWebProxy proxy, RequestCachePolicy cachePolicy)
+   at System.Xml.XmlUrlResolver.GetEntity(Uri absoluteUri, String role, Type ofObjectToReturn)
+   at System.Xml.XmlReaderSettings.CreateReader(String inputUri, XmlParserContext inputContext)
+   at System.Xml.XmlReader.Create(String inputUri, XmlReaderSettings settings, XmlParserContext inputContext)
+   at System.Xml.Linq.XDocument.Load(String uri, LoadOptions options)
+   at System.Xml.Linq.XDocument.Load(String uri)
+   at WorkItemAdvanced.XmlUnitOfWork.ReadXml() in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced\XmlUnitOfWork.cs:line 61
+   at WorkItemAdvanced.XmlUnitOfWork..ctor(String fileName) in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced\XmlUnitOfWork.cs:line 22
+   at WorkItemAdvanced.Tests.XmlUnitOfWorkTest.CommitTest() in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced.Tests\XmlUnitOfWorkTest.cs:line 37
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

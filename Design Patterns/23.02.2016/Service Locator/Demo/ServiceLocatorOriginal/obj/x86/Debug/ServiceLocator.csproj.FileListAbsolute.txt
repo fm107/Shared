@@ -1,0 +1,11 @@
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\SecondWindow.baml
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\MainWindow.baml
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\SecondWindow.g.cs
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\App.g.cs
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\ServiceLocator_MarkupCompile.cache
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\ServiceLocator.g.resources
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\ServiceLocator.Properties.Resources.resources
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-servicelocator\ServiceLocator\obj\x86\Debug\GenerateResource.write.1.tlog

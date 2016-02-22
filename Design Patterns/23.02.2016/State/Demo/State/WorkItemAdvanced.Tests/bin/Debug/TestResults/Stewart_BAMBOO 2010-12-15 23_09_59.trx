@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="8636db5c-99dd-485e-9891-4311f4b24e33" name="Stewart@BAMBOO 2010-12-15 23:09:59" runUser="Bamboo\Stewart" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="85ae9a2e-8e5f-4e76-b3d4-cd6049cda4b6">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="Stewart_BAMBOO 2010-12-15 23_09_59" />
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2010-12-15T23:09:59.7068646-05:00" queuing="2010-12-15T23:09:59.9548788-05:00" start="2010-12-15T23:10:00.1238885-05:00" finish="2010-12-15T23:10:00.5519130-05:00" />
+  <ResultSummary outcome="Inconclusive">
+    <Counters total="3" executed="3" passed="2" error="0" failed="0" timeout="0" aborted="0" inconclusive="1" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="FindByIdTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="a1ce8c1f-1274-dfec-5ea2-d770f37be324">
+      <Execution timeOut="1800000" id="77dcf9bb-6280-498c-b500-9c1938622707" />
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.WorkItemTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="FindByIdTest" />
+    </UnitTest>
+    <UnitTest name="StateTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="68279f75-e759-656d-c6b4-56970f499b41">
+      <Execution timeOut="1800000" id="9f027586-cdbc-4ccb-ae2c-e6a886d6edaf" />
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.WorkItemTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="StateTest" />
+    </UnitTest>
+    <UnitTest name="CreateTest" storage="c:\pluralsight\myfiles\s3\pluralsight-mediasource\john-brown\modules\dpl-state\state\workitemadvanced.tests\bin\debug\workitemadvanced.tests.dll" id="a4958714-ca88-0faf-380c-878683202784">
+      <Execution timeOut="1800000" id="8ebdc618-6aa1-495d-8a05-5dc827dfa5e7" />
+      <TestMethod codeBase="C:/Pluralsight/MyFiles/S3/pluralsight-mediasource/john-brown/modules/dpl-state/State/WorkItemAdvanced.Tests/bin/Debug/WorkItemAdvanced.Tests.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="WorkItemAdvanced.Tests.WorkItemTest, WorkItemAdvanced.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="CreateTest" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="a4958714-ca88-0faf-380c-878683202784" executionId="8ebdc618-6aa1-495d-8a05-5dc827dfa5e7" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="a1ce8c1f-1274-dfec-5ea2-d770f37be324" executionId="77dcf9bb-6280-498c-b500-9c1938622707" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="68279f75-e759-656d-c6b4-56970f499b41" executionId="9f027586-cdbc-4ccb-ae2c-e6a886d6edaf" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="8ebdc618-6aa1-495d-8a05-5dc827dfa5e7" testId="a4958714-ca88-0faf-380c-878683202784" testName="CreateTest" computerName="BAMBOO" duration="00:00:00.1054307" startTime="2010-12-15T23:10:00.1658909-05:00" endTime="2010-12-15T23:10:00.3289002-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="8ebdc618-6aa1-495d-8a05-5dc827dfa5e7">
+    </UnitTestResult>
+    <UnitTestResult executionId="77dcf9bb-6280-498c-b500-9c1938622707" testId="a1ce8c1f-1274-dfec-5ea2-d770f37be324" testName="FindByIdTest" computerName="BAMBOO" duration="00:00:00.1372004" startTime="2010-12-15T23:10:00.3319004-05:00" endTime="2010-12-15T23:10:00.4709083-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="77dcf9bb-6280-498c-b500-9c1938622707">
+    </UnitTestResult>
+    <UnitTestResult executionId="9f027586-cdbc-4ccb-ae2c-e6a886d6edaf" testId="68279f75-e759-656d-c6b4-56970f499b41" testName="StateTest" computerName="BAMBOO" duration="00:00:00.0163137" startTime="2010-12-15T23:10:00.4729084-05:00" endTime="2010-12-15T23:10:00.4899094-05:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Inconclusive" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="9f027586-cdbc-4ccb-ae2c-e6a886d6edaf">
+      <Output>
+        <ErrorInfo>
+          <Message>Assert.Inconclusive failed. Verify the correctness of this test method.</Message>
+          <StackTrace>   at WorkItemAdvanced.Tests.WorkItemTest.StateTest() in C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItemAdvanced.Tests\WorkItemTest.cs:line 53
+</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

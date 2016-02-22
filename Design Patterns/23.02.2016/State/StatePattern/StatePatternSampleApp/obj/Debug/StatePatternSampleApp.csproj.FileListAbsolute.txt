@@ -1,0 +1,9 @@
+C:\Users\Alexander\Downloads\StatePatternSampleApp\StatePatternSampleApp\bin\Debug\StatePatternSampleApp.exe.config
+C:\Users\Alexander\Downloads\StatePatternSampleApp\StatePatternSampleApp\bin\Debug\StatePatternSampleApp.exe
+C:\Users\Alexander\Downloads\StatePatternSampleApp\StatePatternSampleApp\bin\Debug\StatePatternSampleApp.pdb
+C:\Users\Alexander\Downloads\StatePatternSampleApp\StatePatternSampleApp\obj\Debug\StatePatternSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Downloads\StatePatternSampleApp\StatePatternSampleApp\obj\Debug\StatePatternSampleApp.exe
+C:\Users\Alexander\Downloads\StatePatternSampleApp\StatePatternSampleApp\obj\Debug\StatePatternSampleApp.pdb
+C:\Users\Alexander\Downloads\State\StatePattern\StatePatternSampleApp\bin\Debug\StatePatternSampleApp.exe.config
+C:\Users\Alexander\Downloads\State\StatePattern\StatePatternSampleApp\obj\Debug\StatePatternSampleApp.exe
+C:\Users\Alexander\Downloads\State\StatePattern\StatePatternSampleApp\obj\Debug\StatePatternSampleApp.pdb

@@ -1,0 +1,36 @@
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\obj\x86\Debug\State.exe
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\obj\x86\Debug\State.pdb
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\data.xml
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\State.exe.config
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\State.exe
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\State.pdb
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\WorkItemDomain.dll
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\WorkItemDomain.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\data.xml
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\State.exe.config
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\State.exe
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\State.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\WorkItemDomain.dll
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\WorkItemDomain.pdb
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\obj\x86\Debug\State.exe
+C:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\obj\x86\Debug\State.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\State.exe.config
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\obj\x86\Debug\State.exe
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\obj\x86\Debug\State.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\data.xml
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\State.exe
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\State.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\WorkItemDomain.dll
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\bin\Debug\WorkItemDomain.pdb
+C:\Users\Stewart\My Dropbox\PS-S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alexander\Downloads\State\Demo\State\bin\Debug\State.exe.config
+C:\Users\Alexander\Downloads\State\Demo\State\obj\x86\Debug\State.exe
+C:\Users\Alexander\Downloads\State\Demo\State\obj\x86\Debug\State.pdb
+C:\Users\Alexander\Downloads\State\Demo\State\bin\Debug\data.xml
+C:\Users\Alexander\Downloads\State\Demo\State\bin\Debug\State.exe
+C:\Users\Alexander\Downloads\State\Demo\State\bin\Debug\State.pdb
+C:\Users\Alexander\Downloads\State\Demo\State\bin\Debug\WorkItemDomain.dll
+C:\Users\Alexander\Downloads\State\Demo\State\bin\Debug\WorkItemDomain.pdb
+C:\Users\Alexander\Downloads\State\Demo\State\obj\x86\Debug\WorkItemSimple.csprojResolveAssemblyReference.cache

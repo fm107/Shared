@@ -1,0 +1,13 @@
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\bin\Debug\Paint.exe
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\MainWindow.baml
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\MainWindow.g.cs
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\App.g.cs
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint_MarkupCompile.cache
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.g.resources
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.Properties.Resources.resources
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.exe
+c:\users\steve\documents\visual studio 2010\Projects\Paint\Paint\obj\x86\Debug\Paint.pdb

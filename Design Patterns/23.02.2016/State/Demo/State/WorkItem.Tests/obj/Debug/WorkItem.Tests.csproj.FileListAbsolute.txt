@@ -1,0 +1,12 @@
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\bin\Debug\data.xml
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\bin\Debug\WorkItem.Tests.dll
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\bin\Debug\WorkItem.Tests.pdb
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\bin\Debug\State.exe
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\bin\Debug\WorkItemDomain.dll
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\bin\Debug\WorkItemDomain.pdb
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\bin\Debug\State.pdb
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\bin\Debug\State_Accessor.exe
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\bin\Debug\State_Accessor.pdb
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\obj\Debug\WorkItem.Tests.dll
+D:\Pluralsight\MyFiles\S3\pluralsight-mediasource\john-brown\modules\dpl-state\State\WorkItem.Tests\obj\Debug\WorkItem.Tests.pdb
