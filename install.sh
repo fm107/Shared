@@ -4,7 +4,7 @@ sudo sh -c 'echo "deb [arch=amd64] https://apt-mo.trafficmanager.net/repos/dotne
 sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 417A0893
 sudo apt-get -y update
 
-sudo apt-get install -y dotnet-dev-1.0.4 nodejs npm  libunwind8 gettext
+sudo apt-get install -y dotnet-dev-1.0.4 nodejs nodejs-legacy npm libunwind8 gettext
 
 git clone -b Lastest --single-branch  https://github.com/fm107/testing.git
 
