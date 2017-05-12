@@ -1,7 +1,6 @@
 #!/bin/bash
 
 rm -rf /home/ubuntu/testing /app/heroku_output
-
 git clone -b Lastest --single-branch https://github.com/fm107/testing.git
 cd /home/ubuntu/testing
 dotnet restore
